@@ -1,1 +1,0 @@
-cat find.txt |less -2
